@@ -1,0 +1,14 @@
+.space {
+    margin-left: 45px;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+#flowersDiv {
+    display: flex;
+    width: 639px;
+    flex-wrap: wrap;
+}
